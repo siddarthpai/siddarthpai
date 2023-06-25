@@ -6,11 +6,15 @@ Full Stack Web Developer and App Developer
 
 I'm a passionate full-stack developer with expertise in React JS and a flair for creating interactive and user-friendly websites and applications. My goal is to deliver exceptional digital experiences by combining technical skills with a strong design sense.
 
-*   🌍  I'm based in Bangalore
-*   🖥️  See my portfolio at [Siddarth's Site!](http://siddarthdpai.com/)
-*   ✉️  You can contact me at [siddarthdpai@gmail.com](mailto:siddarthdpai@gmail.com)
-*   🧠  I'm currently learning Rust and Go!
-*   🤝  I'm open to collaborating on Open-source projects, Web and mobile app development, Frontend development, Full-stack development, Mentoring and knowledge sharing### Skills 
+* 🌍  I'm based in Bangalore
+* 🖥️  See my portfolio at [Siddarth's Site!](http://siddarthdpai.com/)
+* ✉️  You can contact me at [siddarthdpai@gmail.com](mailto:siddarthdpai@gmail.com)
+* 🧠  I'm learning Rust and Go!
+* 🤝  I'm open to collaborating on Open-source projects, Web and mobile app development, Frontend development, Full-stack development, Mentoring and knowledge sharing
+
+### Skills
+
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -34,21 +38,16 @@ I'm a passionate full-stack developer with expertise in React JS and a flair for
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
-                    
-### Socials
-                  
-                  
-<p align="left">
-    
-<a href="https://discord.com/users/Siddarth#4602" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-    
-<a href="https://www.github.com/siddarthpai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-    
-<a href="http://www.instagram.com/siddarth_pai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-    
-<a href="https://www.linkedin.com/in/siddarth-pai-ba993a219/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My 
 
-GitHub Stats</b><a
-href="http://www.github.com/siddarthpai"><img
-src="https://github-readme-streak-stats.herokuapp.com/?user=siddarthpai&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-href="http://www.github.com/siddarthpai"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=siddarthpai&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/Siddarth#4602" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/siddarthpai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/siddarth_pai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/siddarth-pai-ba993a219/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/siddarthpai"><img src="https://github-readme-streak-stats.herokuapp.com/?user=siddarthpai&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/siddarthpai"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=siddarthpai&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
