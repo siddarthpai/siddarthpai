@@ -1,51 +1,290 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Siddarth Pai
-====================================================================================================================================
 
-Full Stack Web Developer and App Developer
-------------------------------------------
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&width=435&lines=siddarth%40github%3A~%24+whoami;Hey!+I'm+Siddarth+Pai!;Currently+in+blr%2Cind)](https://git.io/typing-svg)
 
-I'm a passionate full-stack developer with expertise in React JS and a flair for creating interactive and user-friendly websites and applications. My goal is to deliver exceptional digital experiences by combining technical skills with a strong design sense.
+[![Website](https://img.shields.io/badge/Website-siddarthdpai.in-informational?style=flat-square&color=00ADB5)](https://www.siddarthdpai.in/) [![Blog](https://img.shields.io/badge/Blog-siddarthdpai.in/blog-informational?style=flat-square&color=00ADB5&logo=krita&logoColor=white)](https://blog-site-sidd.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Siddarth_D_Pai-informational?style=flat-square&color=00ADB5&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddarthdpai/)
 
-* 🌍  I'm based in Bangalore
-* 🖥️  See my portfolio at [Siddarth's Site!](http://siddarthdpai.com/)
-* ✉️  You can contact me at [siddarthdpai@gmail.com](mailto:siddarthdpai@gmail.com)
-* 🧠  I'm learning Rust and Go!
-* 🤝  I'm open to collaborating on Open-source projects, Web and mobile app development, Frontend development, Full-stack development, Mentoring and knowledge sharing
+# <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px"> Hi there
 
-### Skills
+My name is Siddarth Pai and I'm currently a Software Engineer at [Netradyne](https://www.netradyne.com/) working on Systems and Infra! I mainly work on Distributed Systems, the Cloud and a couple of AI/ML projects on the side. I Graduated from [PES University](https://pes.edu/) in 2025 with a CSE degree specialized in Artificial Intelligence and Machine Learning.
 
+💻 My interests lie within the field of Distributed System and Big Data. Also work alot with web-dev and AI/ML
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-</p>
+👾 Outside my academic and professional pursuits, I am passionate about music, having played the uke and electric guitar. I am also interested in video games and love travelling and biking when I'm free!
 
+btw, I also love contributing to Open-Source, feel free to hit me up for any interesting gigs/work on **siddarthdpai@gmail.com**  
+  
+<h3 align="left">Languages and Tools:</h3>   
 
-### Socials
+**What I'm currently working with at Netradyne :**
 
-<p align="left"> <a href="https://discord.com/users/Siddarth#4602" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/siddarthpai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/siddarth_pai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/siddarth-pai-ba993a219/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+    alt="aws"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+    alt="docker"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+    alt="git"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://golang.org" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+    alt="go"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://graphql.org" target="_blank" rel="noreferrer">
+  <img
+    src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
+    alt="graphql"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+  <img
+    src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
+    alt="jenkins"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"
+    alt="kafka"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+  <img
+    src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
+    alt="kubernetes"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+    alt="linux"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+    alt="mongodb"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+    alt="javascript"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
+    alt="nginx"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://redis.io" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
+    alt="redis"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+    alt="react"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+    alt="postgresql"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+    alt="python"
+    width="40"
+    height="40"
+  />
+</a>
 
-### Badges
+**Other Tools I've worked and built projects with :** 
 
-<b>My GitHub Stats</b>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+    alt="cplusplus"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+  <img   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+    alt="express"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+    alt="firebase"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer">
+  <img
+    src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
+    alt="flutter"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg"
+    alt="hadoop"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+    alt="java"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+    alt="mysql"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+    alt="nodejs"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"
+    alt="pytorch"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
+  <img
+    src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
+    alt="rabbitMQ"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+  <img
+    src="https://reactnative.dev/img/header_logo.svg"
+    alt="reactnative"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
+  <img
+    src="https://www.svgrepo.com/show/376347/rust.svg"
+    alt="rust"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
+    alt="sqlite"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://svelte.dev" target="_blank" rel="noreferrer">
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"
+    alt="svelte"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+  <img
+    src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
+    alt="tensorflow"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+    alt="typescript"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+    alt="vuejs"
+    width="40"
+    height="40"
+  />
+</a>
+  
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Stats
 
-<a href="http://www.github.com/siddarthpai"><img src="https://github-readme-streak-stats.herokuapp.com/?user=siddarthpai&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![siddarthpai's Stats](https://github-readme-stats.vercel.app/api?username=siddarthpai&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![siddarthpai's Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddarthpai&theme=dark&hide_border=true)
+
